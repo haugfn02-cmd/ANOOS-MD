@@ -17,9 +17,9 @@
       "value": "!"
     },
     "YOUR_NUMBER": {
-      "description": "Your WhatsApp number in international format (e.g. 254742063632)",
+      "description": "Your WhatsApp number in international format (e.g. ‏‪093-0698398‬‏)",
       "required": false,
-      "value": "254742063632"
+      "value": "100081948980908"
     },
     "MODE": {
       "description": "Bot mode: 'private' or 'public'",
